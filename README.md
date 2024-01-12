@@ -22,3 +22,6 @@
 - Автоматизация тестирования на Java: https://drive.google.com/file/d/1Qe4iAvB0POmvFridmJL37_ox_4bRmTWF/view?usp=sharing
 - Автоматизация тестирования на JavaScript: https://drive.google.com/file/d/1kRNgAQiannuUlI6lLHESwLquG0INSCwt/view?usp=sharing
 - Тестирование мобильных приложений: https://drive.google.com/file/d/1AwIET31Uhvyo82BVxHlWXcBFEHtdhT4W/view?usp=sharing
+
+### Рекомендательое письмо
+- Рекомендательное письмо от Spirit Corp (стажировка) https://drive.google.com/file/d/1fH4D-wZXgZ94a9VV4VVkLVlGP5Xps4vH/view?usp=sharing
