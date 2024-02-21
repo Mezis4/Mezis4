@@ -15,7 +15,7 @@
 - Баг-репорты для тестового задания (специальный тестовый сайт для тестовых заданий, не подписывался NDA): https://docs.google.com/spreadsheets/d/1aVyCM5eFTsfXMFgh0NIHrUb1RrRJLHNCSG-UDHRYCgk/edit?usp=sharing
 
 ### Сертификаты Нетологии
-- Диплом о прохождении курса "Инженер по тестированию: с нуля до middle": https://drive.google.com/file/d/1ozRdp7_ehe-0sG66c-4LPXW9RGW3eUEJ/view?usp=sharing
+- Диплом о прохождении курса "Инженер по тестированию: с нуля до middle": https://drive.google.com/file/d/1IarwpJOvz8uvGuvpx4zxETagt6Ickmii/view?usp=sharing
 - Ручное тестирование: https://drive.google.com/file/d/1ADNovpa3mG_-ah44DyPHJELXhwt2Sldf/view?usp=sharing
 - Java для тестировщиков: https://drive.google.com/file/d/1Liis7StTch_usJFyvvcXPCywOpi5FdWM/view?usp=sharing
 - JavaScript для тестировщиков: https://drive.google.com/file/d/1b9fh8xYI8U9t1c9aTC-rGXkL6HOjJE_d/view?usp=sharing
