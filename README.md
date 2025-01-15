@@ -25,3 +25,4 @@
 
 ### Рекомендательое письмо
 - Рекомендательное письмо от Spirit Corp (стажировка) https://drive.google.com/file/d/1fH4D-wZXgZ94a9VV4VVkLVlGP5Xps4vH/view?usp=sharing
+- Рекомендательное письмо от ТОО RM & COMPANY (Elefanto) https://drive.google.com/file/d/1s9D-HBF9wudRHzETpNF1x5I-GmOWhHvk/view?usp=sharing
