@@ -5,6 +5,7 @@
 ### Вот, что я умею
 - Дипломная работа по тестировнию мобильного приложения "В Хосписе": https://github.com/Mezis4/Diploma_QA
 - Курсовая работа по автоматизации тестирования на Java: https://github.com/Mezis4/AutoTestCoursework
+- Чек-лист для тестовго задания по сайту dobro.ru: https://docs.google.com/spreadsheets/d/1GBw_6_xzS3cFCJ-TKgg-jTJYlfmX0LuYSqKvud5cAXk/edit?usp=sharing
 - Чек-лист для дипломной работы по тестировнию мобильного приложения "В Хосписе": https://docs.google.com/spreadsheets/d/1Y03vOa55UKqg4v7xz-mEa0mf5RYRfVysMo5A5uMWPdY/edit?usp=sharing
 - Чек-лист для домашнего задания по тестированию подписки в мобильном приложении для Android: https://docs.google.com/spreadsheets/d/1JH4OWWbFp__-KSsXF0qK49Kl0m_4_sMaWjO4UlCa_yc/edit?usp=sharing
 - Чек-лист для домашнего задания по тестированию авторизации и регистрации в мобильном приложении для iOS: https://docs.google.com/spreadsheets/d/1lV-jW-MV1jZdFbI6oD-KkFJcbfyikdS1daXFfnnB7Ls/edit?usp=sharing
